@@ -3,7 +3,7 @@ baseURL = "https://demo.gethugothemes.com/kross/examplesite/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "SIIT Robocup"
 
 # css plugins
 [[params.plugins.css]]
@@ -52,7 +52,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = ""
+logo = "images/logo.jpg"
 # theme color
 theme_color = "#41228e"
 # contact info
@@ -75,7 +75,7 @@ copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothe
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+preloader = "images/logo.jpg" # use png, jpg, svg or gif format
 
 # contact
 [params.contact]

@@ -1,9 +1,9 @@
 # default configuration
-baseURL = "https://demo.gethugothemes.com/kross/examplesite/"
+baseURL = "https://demo.gethugothemes.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "OrcaBOT"
 
 # css plugins
 [[params.plugins.css]]
@@ -39,8 +39,8 @@ name = "Blog"
 weight = 2
 
 [[menu.main]]
-URL = "portfolio/"
-name = "Portfolio"
+URL = "our-work/"
+name = "Our Work"
 weight = 3
 
 [[menu.main]]
@@ -60,7 +60,7 @@ phone = "+880 2544 658 256"
 email = "steve.fruits@email.com"
 address = "125/A, CA Commercial Area, California, USA"
 # meta description
-author = "Johnathan Smith"
+author = "OrcaBOT"
 description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID

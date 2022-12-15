@@ -15,11 +15,10 @@ work_process:
     icon : "images/icons/print.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-
 # team
 team:
   enable: true
-  title : "My Team"
+  title : "Our Team"
   team_member:
     - title : "Jack Schenziwe"
       image : "images/team/member-1.png"
@@ -33,7 +32,18 @@ team:
       image : "images/team/member-3.png"
       designation : "Designer"
 
+    - title : "John Doe"
+      image : "images/team/member-3.png"
+      designation : "Designer"
 
+    - title : "Jack Schenziwe"
+      image : "images/team/member-1.png"
+      designation : "Project Manager"
+      
+    - title : "Julias Carlie"
+      image : "images/team/member-2.png"
+      designation : "Web Developer"
+      
 # client logo slider
 clients_logo_slider:
   enable : true
