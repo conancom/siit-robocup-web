@@ -54,7 +54,7 @@ weight = 4
 home = "Home"
 logo = ""
 # theme color
-theme_color = "#41228e"
+theme_color = "#59346D"
 # contact info
 phone = "+880 2544 658 256"
 email = "steve.fruits@email.com"
@@ -75,7 +75,7 @@ copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothe
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+preloader = "images/orca-loader.png" # use png, jpg, svg or gif format
 
 # contact
 [params.contact]
