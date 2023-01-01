@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "OrcaBOT is a group of engineering students from Sirindhorn International Institute of Technology, Thammasat University with a variety of technical backgrounds and a passion for robotics. We are excited to use our skills to compete in robotics competitions and work towards our goals. Keep up with our progress as we aim to excel and make a name for ourselves in the world of robotics. Stay tuned for updates from OrcaBOT!"
   button:
     enable : true
     label : "know more"
@@ -13,28 +13,24 @@ about:
 
 # skill
 skill:
-  enable : true
-  title : "Skills"
+  enable : false
+  title : "Our Team"
   item:
-    - title : "Web Design"
+    - title : "Computer & Digital Engineers"
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "Electrial Engineers"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "Mechanical Engineers"
       progress : "80%"
       color : "#bdecf6"
-      
-    - title : "Web App"
-      progress : "70%"
-      color : "#ffbcaa"
 
 # experience
 experience:
-  enable : true
+  enable : false
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
@@ -54,8 +50,8 @@ experience:
 
 # education
 education:
-  enable : true
-  title : "Education"
+  enable : false
+  title : "Our Team"
   item:
     - title : "Marters in UX Design"
       year : "2006"
@@ -76,33 +72,35 @@ education:
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Our Team"
   item:
-    - title : "UI Design"
-      icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : Computer Vision
+      icon : "ti-eye"
+      content :  'Chayud Srisumarnk <br /> 
+      Sivakorn Seinglek <br />
+      Natsongwat Yorsaengrat'
       highlighted : false
 
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Leaders"
+      icon : "ti-flag-alt"
+      content : " Chayud Srisumarnk (President) <br /> Tongthai Thongsupan (Vice President) <br /> Tanabun Khumsapy (Vice President)"
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "Robotics"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Nutchanon Siripool <br /> Nattapol Chiewnawintawat <br /> Tanabun Khumsapy <br /> Thapanee Pandang <br /> Yanisa Wunvisut <br /> Tongthai Thongsupan"
       highlighted : false
 
 # portfolio
 portfolio:
-  enable : true
+  enable : false
   title : "Portfolio"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
-  enable : true
+  enable : false
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
@@ -122,39 +120,25 @@ testimonial:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
+    - logo : "images/clients-logo/siit-logo.png"
+      URL : "https://siit.tu.ac.th/"
       
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
+    - logo : "images/clients-logo/thammasat-logo.png"
+      URL : "https://tu.ac.th/en"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
+    - logo : "images/clients-logo/ict-logo.png"
+      URL : "https://tu.ac.th/en"
 
-# blog
+    - logo : "images/clients-logo/thammasat-logo.png"
+      URL : "https://tu.ac.th/en"
+
+    - logo : "images/clients-logo/thammasat-logo.png"
+      URL : "https://tu.ac.th/en"
+
+      
+
 blog:
   enable : true
   title : "Blogs"

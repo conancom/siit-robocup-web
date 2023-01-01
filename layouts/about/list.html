@@ -23,16 +23,18 @@
 <section class="section pt-5">
   <div class="container">
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-5">
         {{ .Content }}
       </div>
       <div class="col-md-4 text-center drag-lg-top ">
-        <div class="shadow-down mb-4 ">
+        <div class="shadow-down mt-5 pt-5">
           <img src="{{.Params.author_image | absURL }}" alt="author" height="500"
             class=" rounded-lg border-thick border-white ">
         </div>
-        <img src="{{.Params.author_signature | absURL }}" alt="signature" class="img-fluid">
+        <!-- <div class="ml-5">
+          <img src="{{.Params.author_signature | absURL }}" alt="signature" class="img-fluid">
         <h4>{{ site.Params.Author }}</h4>
+        </div> -->
       </div>
     </div>
   </div>
