@@ -1,0 +1,77 @@
+baseURL = "https://siit-robocup.netlify.app/"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "SIIT Robocup"
+[[menu.main]]
+URL = "about/"
+name = "About"
+weight = 1
+[[menu.main]]
+URL = "blog/"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "portfolio/"
+name = "Portfolio"
+weight = 3
+[[menu.main]]
+URL = "contact/"
+name = "Contact"
+weight = 4
+[params]
+address = "125/A, CA Commercial Area, California, USA"
+author = "Johnathan Smith"
+baidu_analytics_id = ""
+baidu_site_verification = ""
+copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
+description = "This is meta description"
+email = "steve.fruits@email.com"
+google_analytics_id = ""
+home = "Home"
+logo = "images/logo.jpg"
+phone = "+880 2544 658 256"
+theme_color = "#41228e"
+[params.contact]
+enable = true
+form_action = "#"
+[params.cookies]
+enable = true
+expire_days = 2
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+[params.preloader]
+enable = true
+preloader = "images/logo.jpg"
+[[params.social]]
+URL = "#"
+icon = "ti-facebook"
+[[params.social]]
+URL = "#"
+icon = "ti-instagram"
+[[params.social]]
+URL = "#"
+icon = "ti-dribbble"
+[[params.social]]
+URL = "#"
+icon = "ti-twitter-alt"
