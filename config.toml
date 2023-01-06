@@ -67,7 +67,7 @@ email = "schayud43@hotmail.com"
 address = "Sirindhorn International Institute of Technology, Thammasat University Rangsit Campus, 99 Moo 18, Km. 41 on Paholyothin Highway Khlong Luang, Pathum Thani 12120, Thailand"
 # meta description
 author = "OrcaBOT"
-description = "This is meta description"
+description = "Welcome to the official website of OrcaBOT, the cutting-edge robotics and computer vision team. Follow along on our journey as we push the boundaries of technology in the exciting world of soccer. From prototype development to tournament results, stay up-to-date with all the latest news and updates from OrcaBOT."
 # google analytics
 google_analytics_id = "" # Your ID
 # baidu site verification
@@ -75,7 +75,7 @@ baidu_site_verification = "" #Your verification code
 # baidu analytics
 baidu_analytics_id = "" #Your ID
 # copyright
-copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2023 SIIT OrcaBOT"
 
 
 # preloader

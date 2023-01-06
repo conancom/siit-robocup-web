@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "This is meta description."
+description: "Learn more about the OrcaBOT team and our mission to revolutionize robotics and computer vision technology in the world of soccer. Discover the diverse group of individuals that make up our team, and learn more about our cutting-edge research and development efforts."
 author_image : "images/about/no_thumb.jpg"
 author_signature : "images/about/signature.png"
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "First Prototype"
 date: 2023-01-06T11:54:48.620Z
-image: "images/blog/post-2.jpg"
+image: "Get the latest update from the OrcaBOT Robotics team! We are excited to announce the completion of our first prototype robot, featuring a sleek design and advanced artificial intelligence capabilities. Follow along as we continue to test and refine our prototype, and stay up-to-date with all the latest news from the OrcaBOT team."
 description: "First Prototype"
 draft: false
 ---

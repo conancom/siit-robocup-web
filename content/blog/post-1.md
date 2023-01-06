@@ -1,5 +1,5 @@
 ---
-title: "Welcome Blog"
+title: "Welcome to the official OrcaBOT blog! Follow along as we share updates on our team's research and development efforts, tournament results, and more. Stay up-to-date with all the latest news from the cutting-edge robotics and computer vision team, OrcaBOT."
 date: 2023-01-01T11:54:48.620Z
 image: "images/blog/post-1.jpg"
 description: "Welcome Blog"
